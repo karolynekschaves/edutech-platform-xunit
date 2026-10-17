@@ -66,16 +66,14 @@ Cada classe desenvolvida ou atualizada (seja de serviço ou de teste) teve suas 
 
 ### Exemplos do Padrão de Commits Utilizado:
 
-* **Configuração da estrutura:**
-  `feat: setup inicial da solução e projetos da EduTechPlatform`
 * **Implementação de Serviços (Dev 1):**
-  `feat(service): adiciona classe NotaDesempenhoService`
-  `feat(service): adiciona classe FrequenciaService`
-  `feat(service): adiciona classe MatriculaFinanceiraService`
+  `feat(service): `
+  `feat(service): `
+  `feat(service): `
 * **Implementação de Testes (Dev 2):**
-  `test(qa): adiciona testes parametrizados para NotaDesempenhoService`
-  `test(qa): adiciona testes parametrizados para FrequenciaService`
-  `test(qa): adiciona testes parametrizados para MatriculaFinanceiraService`
+  `test(qa): `
+  `test(qa): `
+  `test(qa): `
 
 ## 💻 Guia de Execução (Comandos .NET CLI)
 
@@ -151,7 +149,6 @@ A validação das regras de negócio utiliza o recurso de **testes parametrizado
 
 ---
 *EduTechPlatform - Módulo de Serviços Core e Qualidade de Software.*
-
 
 ```
 Anna Vitória Rocha Dias - 325118421  - Dev Backend / Core    
