@@ -25,7 +25,7 @@ Para compilar e executar o projeto localmente, certifique-se de ter instalado em
 
 * **.NET 10.0 SDK** (ou superior)
 * Um terminal/prompt de comando de sua preferência (PowerShell, Bash, CMD)
-* IDE ou Editor Recomendado: Visual Studio 2022 / VS Code / JetBrains Rider
+* IDE ou Editor Recomendado: Visual Studio/ VS Code
 
 Para verificar se o SDK do .NET 10 está instalado corretamente, execute:
 
@@ -62,7 +62,7 @@ Responsável pelo cálculo de valores de mensalidade e permissão de matrícula.
 
 Para manter o histórico do repositório limpo, auditável e granular, adotou-se a estratégia de **commits separados por classes/funcionalidades**. 
 
-Cada classe desenvolvida ou atualizada (seja de serviço ou de teste) deve ter suas alterações enviadas ao repositório através de um commit dedicado.
+Cada classe desenvolvida ou atualizada (seja de serviço ou de teste) teve suas alterações enviadas ao repositório através de um commit dedicado.
 
 ### Exemplos do Padrão de Commits Utilizado:
 
@@ -152,3 +152,8 @@ A validação das regras de negócio utiliza o recurso de **testes parametrizado
 ---
 *EduTechPlatform - Módulo de Serviços Core e Qualidade de Software.*
 
+
+```
+Anna Vitória Rocha Dias - 325118421  - Dev Backend / Core    
+Maycon Gomes - 325125878 - QA / Testes Unitários    
+Karolyne Silva - 32517941 - Documentação e DevOps / Versionamento. 
